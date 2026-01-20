@@ -1,3 +1,6 @@
 [submodule "quanttide-specification-of-data-engineering"]
 	path = quanttide-specification-of-data-engineering
 	url = https://github.com/quanttide/quanttide-specification-of-data-engineering.git
+[submodule "quanttide-specification-of-strategic-management"]
+	path = quanttide-specification-of-strategic-management
+	url = https://github.com/quanttide/quanttide-specification-of-strategic-management.git
