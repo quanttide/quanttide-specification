@@ -1,0 +1,90 @@
+[submodule "default/company"]
+	path = default/company
+	url = https://github.com/quanttide/quanttide-specification-of-business-entity.git
+[submodule "domains/academic-research"]
+	path = domains/academic-research
+	url = https://github.com/quanttide/quanttide-specification-of-academic-research.git
+[submodule "domains/asset"]
+	path = domains/asset
+	url = https://github.com/quanttide/quanttide-specification-of-asset-management.git
+[submodule "domains/auth"]
+	path = domains/auth
+	url = https://github.com/quanttide/quanttide-specification-of-authorization.git
+[submodule "domains/cloud-computing"]
+	path = domains/cloud-computing
+	url = https://github.com/quanttide/quanttide-specification-of-cloud-computing.git
+[submodule "domains/collaboration"]
+	path = domains/collaboration
+	url = https://github.com/quanttide/quanttide-specification-of-collaboration.git
+[submodule "domains/commerce"]
+	path = domains/commerce
+	url = https://github.com/quanttide/quanttide-specification-of-commerce.git
+[submodule "domains/connect"]
+	path = domains/connect
+	url = https://github.com/quanttide/quanttide-specification-of-communication-management.git
+[submodule "domains/course"]
+	path = domains/course
+	url = https://github.com/quanttide/quanttide-specification-of-course-development.git
+[submodule "domains/customer-support"]
+	path = domains/customer-support
+	url = https://github.com/quanttide/quanttide-specification-of-customer-support.git
+[submodule "domains/data"]
+	path = domains/data
+	url = https://github.com/quanttide/quanttide-specification-of-data-engineering.git
+[submodule "domains/delib"]
+	path = domains/delib
+	url = https://github.com/quanttide/quanttide-specification-of-deliberation-management.git
+[submodule "domains/design-language"]
+	path = domains/design-language
+	url = https://github.com/quanttide/quanttide-specification-of-design-language.git
+[submodule "domains/devops"]
+	path = domains/devops
+	url = https://github.com/quanttide/quanttide-specification-of-devops.git
+[submodule "domains/disciplines"]
+	path = domains/disciplines
+	url = https://github.com/quanttide/quanttide-specification-of-disciplines.git
+[submodule "domains/documents"]
+	path = domains/documents
+	url = https://github.com/quanttide/quanttide-specification-of-documents.git
+[submodule "domains/finance"]
+	path = domains/finance
+	url = https://github.com/quanttide/quanttide-specification-of-finance-management.git
+[submodule "domains/generative-ai"]
+	path = domains/generative-ai
+	url = https://github.com/quanttide/quanttide-specification-of-generative-ai.git
+[submodule "domains/higher-education"]
+	path = domains/higher-education
+	url = https://github.com/quanttide/quanttide-specification-of-higher-education.git
+[submodule "domains/human"]
+	path = domains/human
+	url = https://github.com/quanttide/quanttide-specification-of-human-resources.git
+[submodule "domains/knowl"]
+	path = domains/knowl
+	url = https://github.com/quanttide/quanttide-specification-of-knowledge-engineering.git
+[submodule "domains/learn"]
+	path = domains/learn
+	url = https://github.com/quanttide/quanttide-specification-of-learning-management.git
+[submodule "domains/media"]
+	path = domains/media
+	url = https://github.com/quanttide/quanttide-specification-of-social-media.git
+[submodule "domains/network-applications"]
+	path = domains/network-applications
+	url = https://github.com/quanttide/quanttide-specification-of-network-applications.git
+[submodule "domains/product"]
+	path = domains/product
+	url = https://github.com/quanttide/quanttide-specification-of-product-development.git
+[submodule "domains/project"]
+	path = domains/project
+	url = https://github.com/quanttide/quanttide-specification-of-project-management.git
+[submodule "domains/readme"]
+	path = domains/readme
+	url = https://github.com/quanttide/quanttide-specification-of-readme.git
+[submodule "domains/strategy"]
+	path = domains/strategy
+	url = https://github.com/quanttide/quanttide-specification-of-strategic-management.git
+[submodule "domains/templates"]
+	path = domains/templates
+	url = https://github.com/quanttide/quanttide-specification-of-templates.git
+[submodule "domains/think"]
+	path = domains/think
+	url = https://github.com/quanttide/quanttide-specification-of-cognitive-engineering.git
