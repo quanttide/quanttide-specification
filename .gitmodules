@@ -9,7 +9,7 @@
 	url = https://github.com/quanttide/quanttide-specification-of-asset-management.git
 [submodule "domains/auth"]
 	path = domains/auth
-	url = https://github.com/quanttide/quanttide-specification-of-authorization.git
+	url = https://github.com/quanttide/quanttide-specification-of-authorization-engineering.git
 [submodule "domains/cloud-computing"]
 	path = domains/cloud-computing
 	url = https://github.com/quanttide/quanttide-specification-of-cloud-computing.git
